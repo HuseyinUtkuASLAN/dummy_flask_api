@@ -1,3 +1,0 @@
-# provide variables that are not provided as vault secrets
-app-name: my-cool-application-name
-Prerelease: xxx-xxx-xxx-xxx

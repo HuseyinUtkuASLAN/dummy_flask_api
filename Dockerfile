@@ -7,6 +7,6 @@ ENV STATIC_PATH /var/www/app/static
 
 COPY main.py /home/main.py
 
-# EXPOSE 5000:5000
+EXPOSE 5000:5000
 
 CMD [ "python", "./home/main.py" ]

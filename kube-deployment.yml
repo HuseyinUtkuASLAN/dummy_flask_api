@@ -1,9 +1,0 @@
----
-apiVersion: v1
-kind: Pod
-metadata:
-  name: kube-deployment
-spec:
-  containers:
-  - name: app
-    image: huseyinutkuaslan/dummy_flask
